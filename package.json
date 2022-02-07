@@ -1,12 +1,12 @@
 {
-  "name": "outliers",
-  "version": "0.0.3",
+  "name": "@compass-nft/outliers",
+  "version": "0.0.1",
   "description": "find outliers in a dataset",
   "keywords": [],
   "author": "Matthew Mueller <mattmuelle@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/MatthewMueller/outliers.git"
+    "url": "git://github.com/compass-nft/outliers.git"
   },
   "dependencies": {},
   "devDependencies": {
